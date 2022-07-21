@@ -1,0 +1,18 @@
+.categories {
+  margin-bottom: 100px;
+  
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  width: 600px;
+  flex-wrap: wrap;
+}
+
+.categories h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 5px;
+}

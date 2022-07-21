@@ -1,0 +1,58 @@
+.display {
+    display: flex;
+    align-items: center;
+    width: 1170px;
+    height: 400px;
+}
+
+.forca {
+    width: 40%;
+}
+
+.forca img {
+    width: 400px;
+    fill: #fff;
+}
+
+.words {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 60%;
+    height: 90%;
+    padding: 20px;
+}
+
+.errors h2 {
+    font-size: 1.8rem;
+}
+
+.errors span {
+    font-size: 1.5rem;
+}
+
+.hits span{
+    font-size: 1.5rem;
+    opacity: 1;
+}
+
+.hits {
+    display: flex;
+}
+
+.caractere {
+    border-bottom: 2px solid #fff;
+    width: 40px;
+    margin: 0px 10px;
+}
+
+.caractere p {
+    display: none;
+}
+
+.caractere p.active {
+    display: block;
+}
+
+

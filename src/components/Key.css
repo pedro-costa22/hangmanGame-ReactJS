@@ -1,0 +1,27 @@
+.btnKey {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 3px;
+    border-radius: 4px;
+    border: none;
+    transition: all ease .3s;
+    box-shadow: #40E0D0 2px 2px;
+}
+
+.btnKey:hover {
+    position: relative;
+    top: -2px;
+    background-color: #ccc;
+}
+
+
+.keyboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 650px;
+    height: 100%;
+    margin: 0 auto;
+}
