@@ -7,6 +7,8 @@
   - Desenvolver a estrutura do jogo;
   - Codificar em ReactJS, fazendo uso principalmente dos Hooks para implementação da lógica; 
   
+
+#
 ``` Por dentro da aplicação:  ```   
 > Start:
   - Ao abrir a aplicação, o usuário deve selecionar uma categoria, em seguida pressionar o botão "Jogar" para gerar uma palavra aleatória de acordo com a categoria selecionada e então iniciar  sua jogatina. 
